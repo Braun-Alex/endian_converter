@@ -1,4 +1,4 @@
-# Large numbers
+# Endian converter
 
 Practice task № 2 for Distributed Lab Course 2022.
 
