@@ -13,4 +13,4 @@ Practice task № 2 for Distributed Lab Course 2022.
 
 ## 🚀 Overview
 
-Application permits to convert hexadecimal numbers to little or big endian decimal numbers and little or big endian numbers to hexadecimal numbers.
+Application permits to convert hexadecimal numbers to little or big endian decimal numbers and little or big endian decimal numbers to hexadecimal numbers.
